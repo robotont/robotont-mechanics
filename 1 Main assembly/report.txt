@@ -1,0 +1,17 @@
+﻿Report Name: F:\Gen. 3 - new battery_vermod3\Gen. 3 - new battery\1 Main assembly\report.txt
+Report Time: 28.09.2022 20:13:04
+Report Options:
+    Part Names
+
+Select Set #1:
+    kabi.par:1
+
+Select Set #2:
+    locking_slider.par:1
+
+Interferences:
+    1 of 1
+    kabi.par:1
+    locking_slider.par:1
+
+    1 Interferences Detected
