@@ -1,5 +1,5 @@
 # robotont-mechanics
-Here is the latest release of the Robotont.
+Robotont ver 3.0 is the latest release of the Robotont.
 
 This repository is maintained by Renno Raudmäe renno.raudmae@ut.ee
 If you want to make modifications on Robotont and you think that it would be cool if it is available 
