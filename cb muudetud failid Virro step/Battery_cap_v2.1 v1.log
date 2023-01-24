@@ -1,0 +1,39 @@
+STEP translation to Solid Edge
+Date: esmaspäev,august 10,2020 07:06PM
+Source File: C:\Users\b03122\Nextcloud\ClearBot Shared Folder\Joonised ClearBot\Gen. 2.1\cb muudetud failid Virro step\Battery_cap_v2.1 v1.step
+Author: Unknown
+Organization: Unknown
+Source System: Autodesk Translation Framework v9.2.0.1227
+
+Hardware:
+Processor: Intel(R) Core(TM) i7-8565U CPU @ 1.80GHz
+Operating System: Windows 8 Enterprise Edition
+Installed Memory: 15.75 GB
+
+Software Information
+Parasolid Version: 30.0.167
+PSBodyShop Version: 30.0.81
+Step Adapter Version: 3.0.52
+Solid Edge Version: 110.00.00.107 x64
+
+Step Import Options
+Import Faceted Bodies: On
+Import Check Bodies: Off
+Import Curves: On
+Import DoNotSave: On
+Import Multiple Bodies As Single Part File: On
+Import Stitch Surfaces: On
+Import Boolean Solids: On
+Make Base Feature: On
+Simplify Geometry: On
+Import Imprint Curves: On
+Import Drive: C:
+Import Stitch Surfaces: On
+Import Surfaces: On
+Import Output Path: C:\Users\b03122\Nextcloud\ClearBot Shared Folder\Joonised ClearBot\Gen. 2.1\cb muudetud failid Virro step
+Import Enable Default Output Path: On
+Import Path: 
+
+Translating to Parasolid data types...
+Translation process completed
+Total time required to translate and post process:00 : 00 : 00
