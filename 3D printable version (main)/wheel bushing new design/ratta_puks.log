@@ -1,0 +1,31 @@
+Solid Edge Translation to STL
+Date: kolmapäev,juuni 14,2023 01:00AM
+Source File:C:\Users\b03122\Desktop\ratta_puks.par
+Output File: C:\Users\b03122\Desktop\ratta_puks.stl
+Source System: SOLID EDGE
+
+Hardware:
+Processor: Intel(R) Core(TM) i7-8565U CPU @ 1.80GHz
+Operating System: Windows 8 Enterprise Edition
+Memory: 39,75 GB
+
+Software Information:
+Parasolid Version: 30.0.167
+Bodyshop Version: 30.0.81
+Solid Edge Version: 110.00.00.107 x64
+
+STL Export Options:
+Output File Format:ASCII
+Export Displayed Parts:Off
+structureOption: Monolithic
+Export Units:Millimeter
+Export Tolerance Value:0,001000
+Export Tolerance Type:Fine
+Export Surface Plane Angle Value:0,523599
+
+Translation progress:
+Phase 1 of 2 Fetching Parasolid information...
+Phase 2 of 2 Translating Parasolid to foreign data types...
+Number of STL file Created : 1
+Translation process completed
+Time required to translate:00 : 00 : 00
