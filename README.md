@@ -18,7 +18,7 @@ The main chassis is divided into 5 modules:
 
 ## Production
 
-To reproduce Robotont, production files are provided in [production](main_chassis/production/) folder.
+To reproduce Robotont, production files are provided in [production](main-chassis/production/) folder.
 The 3MF files contain the print settings optimised for Prusa MK3S, as well as the grouping of parts for printing.
 
 
