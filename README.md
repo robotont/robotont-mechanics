@@ -21,4 +21,4 @@ The main chassis is divided into 5 modules:
 To reproduce Robotont, production files are provided in [production](main-chassis/production/) folder.
 The 3MF files contain the print settings optimised for Prusa MK3S, as well as the grouping of parts for printing.
 
-
+To develop and change Robotont, SolidWorks model files are provided, along with STEP for use with other modeling software.
