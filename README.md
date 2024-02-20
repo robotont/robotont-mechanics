@@ -1,7 +1,7 @@
 # robotont-mechanics
 
 This repository contains models of mechanical parts of Robotont.
-The latest reselase of Robotont is gen 3.0.
+The latest reselase of Robotont is gen3.0.
 Gen 3 is developed in SolidWorks (Student version), but STEP is also provided for modeling, as well as STL and 3MF files for 3D-printing.
 
 ## Chassis overview
