@@ -14,7 +14,7 @@ The main chassis is divided into 5 modules:
 + Computer module
 + Battery module
 
-![Robotont gen3.0 chassis with Intel RealSense and Intel Nuc](docs/robotont_chassis.png)
+![Robotont gen3.0 chassis with Intel RealSense and Intel Nuc](docs/robotont_chassis.png "Robotont gen3.0 chassis with Intel RealSense and Intel Nuc")
 
 ## Production
 
