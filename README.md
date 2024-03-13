@@ -22,3 +22,9 @@ To reproduce Robotont, production files are provided in [production](main-chassi
 The 3MF files contain the print settings optimised for Prusa MK3S, as well as the grouping of parts for printing.
 
 To develop and change Robotont, SolidWorks model files are provided, along with STEP for use with other modeling software.
+
+## Getting started
+
+Print the calibration parts in the [calibration.3mf print project](main-chassis/production/3mf/).
+If the two halves fit together and come apart easily and there are no issues with elephant foot, proceed with printing out all the other print projects in the [3mf folder](main-chassis/production/3mf/).
+If there are issues, tune the 3D-printer settings until the calibration piece is printed well, then apply the settings to all of the print projects.
