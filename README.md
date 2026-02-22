@@ -14,6 +14,8 @@ The main chassis is divided into 4 modules:
 - Computer module
 - Battery module
 
+![Robotont gen3.0-lite chassis](docs/robotont_chassis.png "Robotont gen3.0-lite chassis")
+
 ## Production
 
 To reproduce Robotont, production files are provided in [production](main-chassis/production/) folder.
